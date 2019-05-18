@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://jejughaht.awebone.com/sitemap.xml
